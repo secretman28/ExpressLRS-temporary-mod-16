@@ -11,7 +11,8 @@
 </center>
 
 ## Support ExpressLRS
-You can support ExpressLRS by contributing code, testing new features, sharing your ideas, or helping others get started. We are exceptionally grateful for those who donate their time to our passion.
+I did a fork just to make my modification temporairy and will be easyer to get to the tester but the real devyou need to support THEM They Are awesome!!
+You can support the team ExpressLRS by contributing code, testing new features, sharing your ideas, or helping others get started. We are exceptionally grateful for those who donate their time to our passion.
 
 If you don't have time to lend a hand in that way but still want to have an impact, consider donating. Donations are used for infrastructure costs and to buy test equipment needed to further the project and make it securely accessible. ExpressLRS accepts donations through Open Collective, which provides recognition of donors and transparency on how that support is utilized.
 
